@@ -1,3 +1,11 @@
+# ===========================================
+#  🔐 Arch Key Refresh & Cleanup Utility
+#  Author: blackfly13
+#  Purpose: Fix, refresh & clean GPG keyring
+#  Works on: Arch Linux, EndeavourOS
+# ===========================================
+
+
 #!/bin/bash
 
 set -e

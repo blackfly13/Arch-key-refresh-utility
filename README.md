@@ -75,9 +75,9 @@ If you're using additional repositories or third-party sources like **Chaotic-AU
 ### 🔧 To Enable Chaotic-AUR Support
 
 1. Open the script:
-   ```bash
-   nano keyring-cleanup.sh
-   ```
+  ```bash
+  nano keyring-cleanup.sh
+  ```
 2. Find the section:
   ```bash
   # sudo pacman-key --populate chaotic

@@ -47,9 +47,10 @@ cd Arch-key-refresh-utility
 ```
 
 ### 🔓 2. Make the Script Executable
-  ``bash
+  ```bash     
     chmod +x keyring-cleanup.sh
-    ```
+  ```
+
 ### ▶️ 3. Run the Script
   ```bash
   ./keyring-cleanup.sh

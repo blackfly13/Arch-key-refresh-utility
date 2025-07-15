@@ -1,6 +1,9 @@
-# Arch-key-refresh-utility
+# 🔐 Arch Key Refresh & Cleanup Utility
 
-# 🔐 Arch Linux GPG Keyring Cleanup and Repair Script
+![Shell Script](https://img.shields.io/badge/language-Bash-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform: Arch Linux](https://img.shields.io/badge/platform-Arch_Linux-lightgrey.svg)
+
 
 A powerful and interactive Bash script to **repair**, **refresh**, and **clean up** your Arch Linux GPG keyring. Ideal for resolving issues like failed package verification, revoked or expired keys, and broken GPG trust.
 
